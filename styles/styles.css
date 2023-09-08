@@ -4,6 +4,7 @@ h1 {
 
 h2 {
   background-color: #0000FF;
+  color: white;
 }
 
 h3 {
@@ -12,5 +13,5 @@ h3 {
 
 em {
   background-color: #000000;
-  color: green;
+  color: pink;
 }
