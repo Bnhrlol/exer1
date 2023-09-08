@@ -3,7 +3,7 @@ function displaySum() {
   let secondNum = Number(document.getElementById('secondNum').innerHTML)
 
   let total = firstNum + secondNum;
-  document.getElementById("sanswer").innerHTML = ` ${firstNum} + ${secondNum}, equals to ${total}` ;
+  document.getElementById("answer").innerHTML = ` ${firstNum} + ${secondNum}, equals to ${total}` ;
 }
 
 function displayDiff() {
@@ -12,7 +12,7 @@ function displayDiff() {
 
   let total = firstNum - secondNum;
 
-  document.getElementById("danswer").innerHTML = ` ${firstNum} - ${secondNum}, equals to ${total}` ;
+  document.getElementById("result").innerHTML = ` ${firstNum} - ${secondNum}, equals to ${total}` ;
 }
 
 
