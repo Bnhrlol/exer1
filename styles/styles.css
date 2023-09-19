@@ -6,13 +6,15 @@ h1 {
 }
 
 h2 {
-  background-color: #0000FF;
-  color: white;
+  color: blue;
+  display: inline-block;
+  text-align: center;
 }
 
 h3 {
-  background-color: orange;
-  color: transparent; /* Hide the text color */
+  color: yellow; /* Hide the text color */
+  display: inline-block;
+  text-align: center;
 }
 
 em {
