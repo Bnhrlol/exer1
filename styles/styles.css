@@ -1,5 +1,11 @@
+h1, h2, h3, em {
+  display: inline-block;
+  text-align: center;
+}
+
 h1 {
   background-color: cyan;
+  color: transparent; /* Hide the text color */
 }
 
 h2 {
@@ -9,6 +15,7 @@ h2 {
 
 h3 {
   background-color: orange;
+  color: transparent; /* Hide the text color */
 }
 
 em {
