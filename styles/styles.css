@@ -1,19 +1,16 @@
 
 h1 {
-  color: black; /* Hide the text color */
-  display: inline-block;
+  color: black; 
   text-align: center;
 }
 
 h2 {
   color: blue;
-  display: inline-block;
   text-align: center;
 }
 
 h3 {
-  color: yellow; /* Hide the text color */
-  display: inline-block;
+  color: yellow;
   text-align: center;
 }
 
