@@ -4,8 +4,9 @@ h1, h2, h3, em {
 }
 
 h1 {
-  background-color: cyan;
-  color: transparent; /* Hide the text color */
+  color: black; /* Hide the text color */
+  display: inline-block;
+  text-align: center;
 }
 
 h2 {
